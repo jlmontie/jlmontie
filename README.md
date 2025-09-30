@@ -1,16 +1,48 @@
-## Hi there 👋
+# Jesse Montgomery
 
-<!--
-**jlmontie/jlmontie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Engineering Leader | 15+ years building analytics systems in biotech, diagnostics, and ag-tech**  
+Python · Machine Learning Pipelines · Cloud Data Systems · Dashboards · Bioinformatics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I build data systems that connect sensors, the cloud, and end-users. My work spans:
+- Data ingestion and ETL pipelines
+- Machine learning deployment and MLOps
+- Cloud-native architectures (Google Cloud, AWS)
+- Interactive dashboards and decision intelligence
+- Bioinformatics and diagnostics innovation
+
+Currently, I serve as Co-Founder & Chief Data Officer at [Krado](https://www.krado.co), where I lead the development of IoT-to-cloud pipelines for sustainable agriculture and plant care.
+
+---
+
+## Featured Projects
+
+### [IoT Sensor Pipeline](https://github.com/jlmontie/iot-sensor-pipeline)
+
+An end-to-end demonstration of IoT data analytics:
+- **Data Engineering**: Synthetic IoT data to Postgres/BigQuery  
+- **Machine Learning**: Time-series prediction of soil moisture decay  
+- **MLOps**: CI/CD with GitHub Actions → Terraform → Cloud Run  
+- **API Development**: FastAPI microservice with live endpoints  
+- **Analytics**: Interactive Streamlit dashboard
+
+**Live Demo**  
+- [Dashboard](https://iot-demo-dev-dashboard-76c3tvdyfq-uc.a.run.app)  
+- [API Docs](https://iot-demo-dev-dashboard-76c3tvdyfq-uc.a.run.app/docs)
+
+---
+
+## Skills Demonstrated
+- Data Science: Python, ML pipelines, statistical modeling
+- Data Engineering: ETL, databases, cloud storage, APIs
+- Cloud Infrastructure: Google Cloud (Cloud Run, BigQuery, Terraform), AWS
+- Visualization: Streamlit, Plotly Dash, React dashboards
+- Leadership: Building and scaling interdisciplinary product teams
+
+---
+
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/montgomeryjesse)  
+- [Email](mailto:jessemontgomery@outlook.com)
