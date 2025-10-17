@@ -19,6 +19,15 @@ Currently, I serve as Co-Founder & Chief Data Officer at [Krado](https://www.kra
 
 ## Featured Projects
 
+### [Microbiome Metagenomic Analysis Pipeline](https://github.com/jlmontie/microbiome_pipeline)
+
+A production-grade, clinical-quality microbiome analysis system with full CLIA compliance:
+- **Bioinformatics Pipeline**: Nextflow orchestration with Kraken2/Bracken for taxonomic profiling (QC → Classification → Abundance estimation)
+- **Clinical Interpretation Engine**: Python-based pathogen detection and dysbiosis assessment with risk stratification
+- **Data Engineering**: Handles 100M+ reads per sample; generates clinical-grade reports with audit trails
+- **API & CLI Development**: FastAPI REST server and Click CLI for flexible deployment and integration
+- **Testing & Validation**: 80%+ unit test coverage with synthetic mock communities for CI/CD validation
+
 ### [IoT Sensor Pipeline](https://github.com/jlmontie/iot-sensor-pipeline)
 
 An end-to-end demonstration of IoT data analytics:
