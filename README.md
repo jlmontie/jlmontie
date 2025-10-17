@@ -28,6 +28,17 @@ A production-grade, clinical-quality microbiome analysis system with full CLIA c
 - **API & CLI Development**: FastAPI REST server and Click CLI for flexible deployment and integration
 - **Testing & Validation**: 80%+ unit test coverage with synthetic mock communities for CI/CD validation
 
+### [AI-Driven Dynamic Business Intelligence Platform](https://github.com/jlmontie/fleetfix-ai-dashboard)
+
+An innovative, AI-managed platform designed for cutting-edge business intelligence:
+- **Intelligent AI Orchestration**: Utilizes advanced machine learning algorithms and agentic capabilities through LangGraph/LangChain for autonomous data analysis and decision-making.
+- **Automated Insights Generation**: Dynamically generates insights and adaptive visualizations based on real-time data changes, optimizing business operations efficiently.
+- **Comprehensive Data Management**: Seamlessly integrates diverse data sources to facilitate real-time analytics and predictive trend forecasting.
+- **Seamless Integration & API Design**: Provides robust API-driven architecture, ensuring smooth incorporation into existing workflows.
+- **Enterprise-Level Security**: Implements advanced security measures to safeguard data integrity and privacy.
+- **User-Centric Visualization**: Delivers intuitive, dynamic charts and reports that enhance understanding and actionable insights.
+- **Rigorous Testing & Validation**: Includes comprehensive testing protocols to ensure high performance and reliability across deployments.
+
 ### [IoT Sensor Pipeline](https://github.com/jlmontie/iot-sensor-pipeline)
 
 An end-to-end demonstration of IoT data analytics:
